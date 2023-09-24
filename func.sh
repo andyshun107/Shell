@@ -22,3 +22,4 @@ if is_directory "$1"; then
 else 
   echo "you are nuts: $1xxx"
 fi
+echi "test1"
