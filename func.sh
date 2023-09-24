@@ -24,5 +24,3 @@ else
 fi
 
 echo "test1"
-
-echo "test"
