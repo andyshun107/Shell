@@ -27,3 +27,5 @@ done
 
 echo "$count files have been added with bak"
 
+echo " hello world"
+
